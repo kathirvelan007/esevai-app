@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/esevai-app/static/css/main.f3b49805.css",
-    "main.js": "/esevai-app/static/js/main.3df3e30c.js",
+    "main.css": "/esevai-app/static/css/main.c22af99d.css",
+    "main.js": "/esevai-app/static/js/main.3ff475ac.js",
     "index.html": "/esevai-app/index.html",
-    "main.f3b49805.css.map": "/esevai-app/static/css/main.f3b49805.css.map",
-    "main.3df3e30c.js.map": "/esevai-app/static/js/main.3df3e30c.js.map"
+    "main.c22af99d.css.map": "/esevai-app/static/css/main.c22af99d.css.map",
+    "main.3ff475ac.js.map": "/esevai-app/static/js/main.3ff475ac.js.map"
   },
   "entrypoints": [
-    "static/css/main.f3b49805.css",
-    "static/js/main.3df3e30c.js"
+    "static/css/main.c22af99d.css",
+    "static/js/main.3ff475ac.js"
   ]
 }
