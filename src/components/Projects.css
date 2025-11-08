@@ -6,13 +6,20 @@
 }
 
 .project-card {
-  background: white;
+  background: var(--card-bg);
   border-radius: 10px;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
   padding: 30px;
   transition: transform 0.3s ease;
+  color: var(--text-color);
 }
 
 .project-card:hover {
   transform: translateY(-5px);
+}
+
+body.dark-mode .project-card {
+  background-color: #1a1a2e; /* custom dark background */
+  color: #ffdd59;            /* custom text color */
+  border: 1px solid #333366; /* custom border */
 }
